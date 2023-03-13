@@ -1,0 +1,11 @@
+#root {
+  min-width: 100vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  height: 4em;
+  padding: 1.5em;
+  border-radius: 10rem;
+}
